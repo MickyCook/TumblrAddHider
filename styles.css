@@ -1,3 +1,3 @@
-.standalone-ad-container {
+.standalone-ad-container, .sidebar-ad-container, .sponsored-day-media-section {
 	display: none !important;
 }
